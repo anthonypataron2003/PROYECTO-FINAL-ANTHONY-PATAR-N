@@ -304,4 +304,4 @@ Para soporte técnico o consultas:
 
 ---
 
-**Desarrollado con ❤️ por Hernan Sarango y Ayrton Oña para el bienestar nutricional infantil**
+**Desarrollado con ❤️ por Hernan Sarango,Ayrton Oña y Anthony Pataron para el bienestar nutricional infantil**
