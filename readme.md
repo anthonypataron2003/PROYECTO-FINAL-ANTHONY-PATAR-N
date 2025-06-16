@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Descripción 
+## 📋 Descripción  
 
 NutriScan Kids es una aplicación web desarrollada en Django que permite realizar análisis nutricionales especializados para niños. La plataforma ofrece herramientas avanzadas para el seguimiento dietético, análisis de hábitos alimentarios y gestión de recursos nutricionales enfocados en la población infantil.
 
