@@ -1,4 +1,4 @@
-# 🍎 NutriScan Kids
+# 🍎 NutriScan Kids 
 
 > **Una plataforma integral para el análisis nutricional y seguimiento alimentario infantil**
 
