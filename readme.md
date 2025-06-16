@@ -297,7 +297,7 @@ Para soporte técnico o consultas:
 
 ## 🙏 Agradecimientos
 
-- **Hernan Sarango** y **Ayrton Oña** - Desarrolladores principales del proyecto
+- **Hernan Sarango**,**Ayrton Oña** y **Anthony Pataron** - Desarrolladores principales del proyecto
 - Equipo de desarrollo de Django
 - Comunidad de desarrolladores Python
 - Especialistas en nutrición infantil que colaboraron en el proyecto
